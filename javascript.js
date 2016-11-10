@@ -9,12 +9,6 @@ var myString = "Serge";
 var myNumber = 7;
 var myBoolean = true;
 
-
-// Do not edit the code under this line
-console.log("Name: " + myString);
-console.log("Lucky Number: " + myNumber);
-console.log("Good joke? " + myBoolean);
-
 console.log("Luke","IamyourFather")
 
 console.log(19 + 3.5);
